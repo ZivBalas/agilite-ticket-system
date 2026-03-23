@@ -47,7 +47,7 @@ Create a `.env` file inside the `backend` folder:
 
 ```
 PORT=5000
-MONGO_URI=mongodb_connection_string
+MONGODB_URI=mongodb_connection_string
 EXTERNAL_API_URL=https://api.escuelajs.co/api/v1/products
 ```
 
