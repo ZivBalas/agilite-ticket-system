@@ -72,3 +72,6 @@ npm run dev
 ```
 
 The app runs at `http://localhost:5173` and the API at `http://localhost:5000`.
+
+## 🚀 Live Demo
+https://agilite-ticket-system.vercel.app
